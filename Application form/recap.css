@@ -1,0 +1,15 @@
+.program-recap-title {
+    display: inline-block;
+    font-family: Protipo;
+    margin: 1em;
+}
+
+.program-recap-list {
+    font-family: Protipo;
+    display: inline-block;
+    list-style-type: none;
+}
+
+.image {
+    display: inline-block; 
+}
