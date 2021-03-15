@@ -1,6 +1,38 @@
-div {
+.wings {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width: 100%;
+    font-family: Protipo;
+    text-align: center;
+}
+
+.scouting {
     background-color: rgb(227, 227, 227);
-    height: 200px;
+    height: 400px;
+    width: 100%;
+    font-family: Protipo;
+    text-align: center;
+}
+
+.partners {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width: 100%;
+    font-family: Protipo;
+    text-align: center;
+}
+
+.investors {
+    background-color: rgb(227, 227, 227);
+    height: 400px;
+    width: 100%;
+    font-family: Protipo;
+    text-align: center;
+}
+
+.program-recap {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
     width: 100%;
     font-family: Protipo;
     text-align: center;
@@ -9,8 +41,4 @@ div {
 p {
     margin: 0; 
     padding-top: 10px;
-}
-
-.wings p {
-    
 }
