@@ -19,6 +19,24 @@
     list-style-type: none;
 }
 
+.more-info-program {
+    font-family: Protipo;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 1rem 0;
+    font-family: inherit;
+    padding: 1em 1em;
+    border: 1px solid transparent;
+    border-radius: .8rem;
+    font-size: 1rem;
+    line-height: 1;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgba(0,0,0,0);
+    border-width: 2px;
+    border-color: #6d6d6d;
+}
+
 .scouting {
     background-color: rgb(227, 227, 227);
     height: 400px;
